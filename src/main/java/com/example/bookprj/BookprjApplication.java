@@ -1,0 +1,13 @@
+package com.example.bookprj;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class BookprjApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(BookprjApplication.class, args);
+    }
+
+}
